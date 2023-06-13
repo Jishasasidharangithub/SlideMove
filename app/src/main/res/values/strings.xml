@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SlideMove</string>
+    <string name="you_have">You have</string>
+    <string name="hager_chip">Hager Chip</string>
+    <string name="you_ve_spent_0_00_today">You’ve Spent 0.00 Today</string>
+    <string name="you_ve_topped_up_0_00_this_month">You’ve Topped up 0.00 this month</string>
+    <string name="pearl">Pearl 1</string>
+    <string name="available_gift">Available Gift</string>
+    <string name="points">200 Points More to Pearl 2</string>
+    <string name="you_are_here">You are here</string>
+    <string name="toolbar_name">Toolbar name</string>
+    <string name="loyality_wallet">Loyalty Wallet</string>
+</resources>
