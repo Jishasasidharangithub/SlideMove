@@ -36,9 +36,11 @@ class PearlAdapter() : RecyclerView.Adapter<PearlAdapter.PearlItemViewHolder>() 
             holder.binding.tvPearl.text = title
             if(isActive){
                 holder.binding.ivInactiveDot.setImageResource(R.drawable.active_point)
+                holder.binding.tvYouAreHere.setTextColor(holder.itemView.context.resources.getColor(R.color.white))
             }
             else{
                 holder.binding.ivInactiveDot.setImageResource(R.drawable.inactive_point)
+                holder.binding.tvYouAreHere.setTextColor(holder.itemView.context.resources.getColor(R.color.black))
             }
         }
     }
